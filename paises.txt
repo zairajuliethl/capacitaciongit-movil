@@ -3,3 +3,9 @@ Colombia
 Venezuela
 Ecuador
 Perú
+Brasil
+Argentina
+Chile
+Uruguay
+Paraguay
+Bolivia
