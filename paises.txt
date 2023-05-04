@@ -1,16 +1,19 @@
-Paises de SurAmerica
+Paises de SurAmerica y algunos de Europa
 1.Argentina
 2.Brasil
 3.Bolivia
 4.Chile
+16.España
 5.Colombia
 6.Ecuador
 7.Guayana
+17.Alemania
 8.Panama
 9.Paraguay
 10. Peru
 11.Uruguay
 12.Venezuela
+18-Portugal
 13.Guayana Francesa
 14.Surinam
 15. Grecia
