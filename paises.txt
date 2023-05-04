@@ -1,13 +1,13 @@
 Paises de SurAmerica
-Colombia
-Venezuela
-Ecuador
-Perú
-Panama
-Brasil
-Argentina
-Chile
-Uruguay
-Paraguay
-Bolivia
-Guyana
+1.Argentina
+2.Brasil
+3.Bolivia
+4.Chile
+5.Colombia
+6.Ecuador
+7.Guayana
+8.Panama
+9.Paraguay
+10. Peru
+11.Uruguay
+12.Venezuela
