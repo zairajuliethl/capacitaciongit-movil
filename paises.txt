@@ -1,7 +1,9 @@
 Paises de SurAmerica
 1.Argentina
 2.Brasil
+14.Surinam
 3.Bolivia
+13.Guayana Francesa
 4.Chile
 5.Colombia
 6.Ecuador
